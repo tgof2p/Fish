@@ -33,9 +33,9 @@ public class First : MonoBehaviour
     {
         
         //Debug.Log(viewPos);
-        Movement();	
+        //Movement();	
         LookDirection();
-        //mousePosition();
+        mousePosition();
 	}
 
     void Movement()
